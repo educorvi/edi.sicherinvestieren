@@ -1,0 +1,6 @@
+README.md
+setup.py
+edi.sicherinvestieren_pascalpaul.egg-info/PKG-INFO
+edi.sicherinvestieren_pascalpaul.egg-info/SOURCES.txt
+edi.sicherinvestieren_pascalpaul.egg-info/dependency_links.txt
+edi.sicherinvestieren_pascalpaul.egg-info/top_level.txt
