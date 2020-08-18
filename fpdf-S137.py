@@ -6,12 +6,6 @@ pdf.add_page()
 
 pdf.image("Bild_png.png", x=-4, y=-8, w=217, h=313)
 
-# Prototyp
-#pdf.set_xy(x=0, y=0)
-pdf.set_font('Arial', style='B', size=16)
-pdf.set_text_color(r=178, g=34, b=34)
-pdf.multi_cell(w=0, h=0, txt="Prototyp", border=0, fill=False)
-
 # Arbeitsstelle/Arbeitsort
 pdf.set_text_color(r=0, g=0, b=0)
 pdf.set_font('Arial', style='B', size=9)
@@ -236,4 +230,4 @@ if option == "j":
     pdf.set_xy(x=168.3, y=253)
     pdf.multi_cell(w=0, h=0, txt="X", border=0, fill=False)
 
-pdf.output("Prototyp.pdf")
+pdf.output("S137.pdf")
